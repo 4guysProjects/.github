@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 🙋‍♀️ A short introduction - This organization aims to group all the works and projects carried out by our team during the learning phase at USF
 
