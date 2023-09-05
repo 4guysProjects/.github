@@ -1,12 +1,20 @@
 ## Hi there 👋
 
-<!--
+🙋‍♀️ A short introduction - This organization aims to group all the works and projects carried out by our team during the learning phase at USF
 
-**Here are some ideas to get you started:**
+<br />
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌈 Contribution guidelines - The contribuition only can made, by the members of this organization 
+
+<br />
+
+🍿 Fun facts - All content found was made during the learning process, but projects are assignments given by order of the teachers
+
+<br />
+
+Survivals Rules:
+
+* Dont merge commits, without pull requests and revision
+* Dont merge branches without pull requests and revision
+* Whenever you find an error, open an issue, so that everyone can see was happened
+* Respect the orders, and dont exclude or edit branches without revison 
